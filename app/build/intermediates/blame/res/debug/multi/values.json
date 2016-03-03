@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 46,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 48,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 48,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 47,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 47,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 47,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 47,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 47,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 47,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 57,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/Users/lijunjie/mac/dev/build/studio/KissProxy/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 57,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]
