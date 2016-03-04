@@ -158,9 +158,9 @@ public class ChannelPair implements ChannelListener {
 	}
 
 	private SocketChannel connect(String host, int port) {
-		if(host.equals("www.baidu.com")) {
-			host="www.lijunjie.xyz";
-		}
+//		if(host.equals("www.baidu.com")) {
+//			host="www.lijunjie.xyz";
+//		}
 		Log.d(TAG, "connect " + host + ":" + port);
 		SocketChannel channel = null;
 		try {
@@ -205,6 +205,9 @@ public class ChannelPair implements ChannelListener {
 
 	@Override
 	public void onStatusLine(Channel channel) {
+		if(channel.getHost().equals("www.baidu.com")) {
+
+		}
 		Log.d(TAG, "onStatusLine " + channel.getStatusLine());
 	}
 
